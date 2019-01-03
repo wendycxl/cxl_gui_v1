@@ -2,10 +2,9 @@
    <div class="container">
         会员登录
      新feature
-
+fffaffafff
      gn_2
 
-     gn_1
 
    </div>
 </template>
