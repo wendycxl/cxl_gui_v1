@@ -2,6 +2,7 @@
    <div class="container">
         会员登录
      新feature
+     gn_2
    </div>
 </template>
 
