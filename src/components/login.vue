@@ -5,7 +5,7 @@
 
      gn_2
 
-     gn_1
+     
 
    </div>
 </template>
